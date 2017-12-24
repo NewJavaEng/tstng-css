@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="7" total="8" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25473" started-at="2017-12-24T18:55:23Z" finished-at="2017-12-24T18:55:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25473" started-at="2017-12-24T18:55:23Z" finished-at="2017-12-24T18:55:48Z">
+      <class name="by.http.tstng.tstng_study.AppTestcssLocator">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:by.http.tstng.tstng_study.AppTestcssLocator@1593948d]" name="beforeSuite" is-config="true" duration-ms="10" started-at="2017-12-24T21:55:23Z" finished-at="2017-12-24T21:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:by.http.tstng.tstng_study.AppTestcssLocator@1593948d]" name="beforeClass" is-config="true" duration-ms="9077" started-at="2017-12-24T21:55:23Z" finished-at="2017-12-24T21:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="task6()[pri:0, instance:by.http.tstng.tstng_study.AppTestcssLocator@1593948d]" name="task6" duration-ms="16241" started-at="2017-12-24T21:55:32Z" finished-at="2017-12-24T21:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task6 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:by.http.tstng.tstng_study.AppTestcssLocator@1593948d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-12-24T21:55:32Z" finished-at="2017-12-24T21:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:by.http.tstng.tstng_study.AppTestcssLocator@1593948d]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2017-12-24T21:55:48Z" finished-at="2017-12-24T21:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:by.http.tstng.tstng_study.AppTestcssLocator@1593948d]" name="AfterClass" is-config="true" duration-ms="134" started-at="2017-12-24T21:55:48Z" finished-at="2017-12-24T21:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:by.http.tstng.tstng_study.AppTestcssLocator@1593948d]" name="AfterTest" is-config="true" duration-ms="0" started-at="2017-12-24T21:55:48Z" finished-at="2017-12-24T21:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:by.http.tstng.tstng_study.AppTestcssLocator@1593948d]" name="AfterSuite" is-config="true" duration-ms="0" started-at="2017-12-24T21:55:48Z" finished-at="2017-12-24T21:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- by.http.tstng.tstng_study.AppTestcssLocator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
